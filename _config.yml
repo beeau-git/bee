@@ -17,9 +17,7 @@ title: Bee's Space
 email: web@beeau.net
 description: >- # this means to ignore newlines until "baseurl:"
   My personal place on the internet.
-twitter_username: PLACEHOLDER
-github_username: PLACEHOLDER
-minimal_mistakes_skin: catppuccin_mocha
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
